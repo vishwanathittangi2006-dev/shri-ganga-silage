@@ -1,0 +1,11 @@
+{
+  "name": "shri-ganga-silage-ankalgi-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack Shri Ganga Silage Ankalgi agriculture website with Node.js backend and persistent JSON data store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}

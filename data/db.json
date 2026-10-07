@@ -1,0 +1,81 @@
+{
+  "nextInquiryId": 1,
+  "nextOrderId": 1,
+  "crops": [
+    {
+      "id": 1,
+      "name": "Mandya VCF517",
+      "price": 2.6,
+      "unit": "unit",
+      "image": "/assets/crops/mandya-vcf517-2.webp",
+      "image2": "/assets/crops/mandya-vcf517-1.webp",
+      "points_en": [
+        "Supplied nursery planting material shown in the original photo.",
+        "Use healthy, uniform planting material for a stronger nursery start."
+      ],
+      "points_kn": [
+        "ನೀಡಿದ ಮೂಲ ಫೋಟೋದಲ್ಲಿರುವ ನರ್ಸರಿ ನೆಡುವ ವಸ್ತು.",
+        "ಆರೋಗ್ಯಕರ ಮತ್ತು ಸಮಾನ ನೆಡುವ ವಸ್ತು ಉತ್ತಮ ನರ್ಸರಿ ಆರಂಭಕ್ಕೆ ಸಹಾಯಕ."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Co 86032",
+      "price": 2,
+      "unit": "unit",
+      "image": "/assets/crops/co86032-1.webp",
+      "image2": null,
+      "points_en": [
+        "ICAR identifies Co 86032 as a major tropical sugarcane variety.",
+        "It has been widely cultivated in Karnataka and other southern states."
+      ],
+      "points_kn": [
+        "ICAR ಪ್ರಕಾರ Co 86032 ಪ್ರಮುಖ ಉಷ್ಣವಲಯದ ಕಬ್ಬಿನ ತಳಿಯಾಗಿದೆ.",
+        "ಇದು ಕರ್ನಾಟಕ ಸೇರಿದಂತೆ ದಕ್ಷಿಣ ಭಾರತದ ಹಲವು ರಾಜ್ಯಗಳಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಬೆಳೆದಿದೆ."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "SNK 13374",
+      "price": 2.8,
+      "unit": "unit",
+      "image": "/assets/crops/snk13374-2.webp",
+      "image2": "/assets/crops/snk13374-1.webp",
+      "points_en": [
+        "Also identified as CoSnk 20102 in Karnataka research material.",
+        "Reported as promising for northern dry-zone conditions, including moisture-stress areas."
+      ],
+      "points_kn": [
+        "ಕರ್ನಾಟಕದ ಸಂಶೋಧನಾ ಮಾಹಿತಿಯಲ್ಲಿ ಇದನ್ನು CoSnk 20102 ಎಂದೂ ಗುರುತಿಸಲಾಗಿದೆ.",
+        "ಉತ್ತರ ಒಣ ವಲಯದ ಪರಿಸ್ಥಿತಿಗಳಿಗೆ, ತೇವಾಂಶ ಕೊರತೆಯ ಪ್ರದೇಶಗಳಿಗೂ ಇದು ಭರವಸೆಯ ತಳಿಯಾಗಿದೆ."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pdn265",
+      "price": 2.5,
+      "unit": "unit",
+      "image": "/assets/crops/pdn265-1.webp",
+      "image2": "/assets/crops/pdn265-2.webp",
+      "points_en": [
+        "Variety name and price are kept exactly as supplied with the photo.",
+        "Confirm local recommendations before large-area planting."
+      ],
+      "points_kn": [
+        "ಫೋಟೋದಲ್ಲಿ ನೀಡಿದ ತಳಿ ಹೆಸರು ಮತ್ತು ಬೆಲೆಯನ್ನು ಹಾಗೆಯೇ ಉಳಿಸಲಾಗಿದೆ.",
+        "ದೊಡ್ಡ ಪ್ರದೇಶದಲ್ಲಿ ನೆಡುವ ಮೊದಲು ಸ್ಥಳೀಯ ಶಿಫಾರಸುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+      ]
+    }
+  ],
+  "inquiries": [],
+  "orders": [],
+  "settings": {
+    "nursery_name": "Shri Ganga Silage Ankalgi",
+    "phone": "+91 XXXXX XXXXX",
+    "whatsapp": "+91 XXXXX XXXXX",
+    "address": "Ankalgi, Karnataka",
+    "instagram": "@your_nursery"
+  },
+  "users": [],
+  "nextUserId": 1
+}
